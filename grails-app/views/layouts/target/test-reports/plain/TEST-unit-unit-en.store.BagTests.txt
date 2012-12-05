@@ -1,0 +1,15 @@
+Testsuite: en.store.BagTests
+Tests run: 1, Failures: 0, Errors: 1, Time elapsed: 1.308 sec
+------------- Standard Output ---------------
+--Output from testSomething--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSomething--
+------------- ---------------- ---------------
+
+Testcase: testSomething took 1.289 sec
+	Caused an ERROR
+Cannot cast object '34.3' with class 'java.lang.String' to class 'java.lang.Float'
+org.codehaus.groovy.runtime.typehandling.GroovyCastException: Cannot cast object '34.3' with class 'java.lang.String' to class 'java.lang.Float'
+	at en.store.BagTests.testSomething(BagTests.groovy:21)
+

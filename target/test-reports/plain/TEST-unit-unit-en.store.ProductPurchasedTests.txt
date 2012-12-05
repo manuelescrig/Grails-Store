@@ -1,0 +1,13 @@
+Testsuite: en.store.ProductPurchasedTests
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.925 sec
+------------- Standard Output ---------------
+--Output from testSomething--
+--Output from testValidate--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSomething--
+--Output from testValidate--
+------------- ---------------- ---------------
+
+Testcase: testSomething took 0.767 sec
+Testcase: testValidate took 0.145 sec

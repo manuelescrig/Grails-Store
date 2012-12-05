@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="1" failures="0" hostname="Manuel-Escrigs-MacBook.local" id="0" name="BagTests" package="en.store" tests="1" time="1.308" timestamp="2011-11-20T23:29:36">
+      <properties />
+
+      <testcase classname="en.store.BagTests" name="testSomething" time="1.291">
+          <error message="Cannot cast object &apos;34.3&apos; with class &apos;java.lang.String&apos; to class &apos;java.lang.Float&apos;" type="org.codehaus.groovy.runtime.typehandling.GroovyCastException">org.codehaus.groovy.runtime.typehandling.GroovyCastException: Cannot cast object &apos;34.3&apos; with class &apos;java.lang.String&apos; to class &apos;java.lang.Float&apos;
+	at en.store.BagTests.testSomething(BagTests.groovy:21)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

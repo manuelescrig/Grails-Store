@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="X205-06" id="0" name="ProductPurchasedTests" package="en.store" tests="2" time="0.925" timestamp="2011-11-22T14:58:15">
+      <properties />
+
+      <testcase classname="en.store.ProductPurchasedTests" name="testSomething" time="0.767" />
+
+      <testcase classname="en.store.ProductPurchasedTests" name="testValidate" time="0.145" />
+
+      <system-out><![CDATA[--Output from testSomething--
+--Output from testValidate--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+--Output from testValidate--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
