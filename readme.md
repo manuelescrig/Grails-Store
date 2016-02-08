@@ -16,7 +16,7 @@ To develop this project I have been using STS (SpringSource Tool Suite) for Mac 
 This e-commerce site is open-source released under the creative commons license so you can download it and use it.
 
 
-## For more information:
+## For more information
 [Grails-WebStore.pdf](https://github.com/manuelescrig/grails-store/files/121551/Grails-WebStore.pdf)
 
 
