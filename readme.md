@@ -17,4 +17,9 @@ This e-commerce site is open-source released under the creative commons license 
 
 
 ## For more information:
-[http://youngbit.com/portfolio/e-commerce-grails/](http://youngbit.com/portfolio/e-commerce-grails/) 
+[Grails-WebStore.pdf](https://github.com/manuelescrig/grails-store/files/121551/Grails-WebStore.pdf)
+
+
+## Author
+Manuel Escrig Ventura
+http://ventura.media
